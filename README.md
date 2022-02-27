@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a Privacy Engineer at [Meta](https://meta.com) with interests in backend infrastructure, integrity and privacy-respecting design.
+
 <!--
 **havron/havron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
